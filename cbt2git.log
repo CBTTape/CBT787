@@ -1,0 +1,6 @@
+2023-04-03 02:40:45.792282 - Initialized conversion of CBT787
+2023-04-03 02:40:45.860102 - Received CBT.V504.FILE787.PDS from FILE787.XMI 
+2023-04-03 02:40:45.862728 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE787.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:40:45.863669 - Found $FTPSMAC.rexx (text/plain) in CBT.V504.FILE787.PDS, moved to PDS/$FTPSMAC
+2023-04-03 02:40:45.864744 - Found @FILE787.txt (text/plain) in CBT.V504.FILE787.PDS, moved to PDS/@FILE787
+2023-04-03 02:40:45.864755 - Found FTPS.bin containing application/octet-stream, moved to PDS/FTPS
