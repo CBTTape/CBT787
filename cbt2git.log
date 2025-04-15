@@ -1,5 +1,5 @@
-2025-04-13 22:50:17.806519 - Received CBT.V508.FILE787.PDS from FILE787.XMI 
-2025-04-13 22:50:17.807358 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE787.PDS, moved to PDS/$$$#DATE
-2025-04-13 22:50:17.807439 - Found $FTPSMAC.rexx (text/plain) in CBT.V508.FILE787.PDS, moved to PDS/$FTPSMAC
-2025-04-13 22:50:17.807510 - Found @FILE787.txt (text/plain) in CBT.V508.FILE787.PDS, moved to PDS/@FILE787
-2025-04-13 22:50:17.807794 - Found FTPS.bin (application/octet-stream) in CBT.V508.FILE787.PDS, moved to PDS/FTPS
+2025-04-15 05:36:27.736701 - Received CBT.V508.FILE787.PDS from FILE787.XMI 
+2025-04-15 05:36:27.737814 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE787.PDS, moved to PDS/$$$#DATE
+2025-04-15 05:36:27.738010 - Found $FTPSMAC.rexx (text/plain) in CBT.V508.FILE787.PDS, moved to PDS/$FTPSMAC
+2025-04-15 05:36:27.738201 - Found @FILE787.txt (text/plain) in CBT.V508.FILE787.PDS, moved to PDS/@FILE787
+2025-04-15 05:36:27.739750 - Found FTPS.bin (application/octet-stream) in CBT.V508.FILE787.PDS, moved to PDS/FTPS
